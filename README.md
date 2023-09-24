@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 
 <iframe src="https://giphy.com/embed/gjrYDwbjnK8x36xZIO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/capgemini-techchallenge2020-india-gjrYDwbjnK8x36xZIO">via GIPHY</a></p>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNyeDVnZjRtOHVneGM0Z2wwa2F3bzVkNm92MXRqMTVnYTIxcmEybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif"/>
