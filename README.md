@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <hr>
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=Anonymous-Roys&theme=carbonfox" height="220" alt="streak graph" />
 </div><br>
-
+ -->
