@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ....
 - 🤔 I’m looking for help with devleping an application in flutter.
 - 💬 Ask me about the thing a spider🕷️ uses in trapping its prey.
-- 📫 How to reach me: 
+- 📫 How to reach me: https://www.linkedin.com/learning/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
