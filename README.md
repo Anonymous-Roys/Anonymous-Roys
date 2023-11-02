@@ -7,7 +7,7 @@
 - 💬 Ask me about the thing a spider🕷️ uses in trapping its prey.
 - 📫 How to reach me: https://www.linkedin.com/learning/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am Spider 🤫
 
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNyeDVnZjRtOHVneGM0Z2wwa2F3bzVkNm92MXRqMTVnYTIxcmEybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif"/>
