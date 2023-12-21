@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on a react based website with Tailwind css
 - 🌱 I’m currently learning nextjs
