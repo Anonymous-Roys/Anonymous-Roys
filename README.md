@@ -10,7 +10,9 @@
 - ⚡ Fun fact: I am Spider 🤫
 
 <div align="center">
+  <a href='https://www.linkedin.com/in/david-arhin-09a0a026a/'>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNyeDVnZjRtOHVneGM0Z2wwa2F3bzVkNm92MXRqMTVnYTIxcmEybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif"/>
+    </a>
 </div>
 
 <div id="badges" align="center">
