@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a react based website with Tailwind css
-- 🌱 I’m currently learning nextjs
-- 👯 I’m looking to collaborate on ....
-- 🤔 I’m looking for help with devleping an application in flutter.
+- 🔭 I’m currently working on a Nextjs based app with Tailwind css
+- 🌱 I’m currently learning Redux
+- 👯 I’m looking to collaborate on react based application
+- 🤔 I’m looking for help with developing an application in react native.
 - 💬 Ask me about the thing a spider🕷️ uses in trapping its prey.
 - 📫 How to reach me: https://www.linkedin.com/learning/
 - 😄 Pronouns: he/him
@@ -31,18 +31,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> -->
 
 [![CircleCI](https://circleci.com/gh/nodesource/distributions/tree/master.svg?style=svg)](https://circleci.com/gh/nodesource/distributions/tree/master)
 </div>
 <hr>
 <!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=Anonymous-Roys&theme=carbonfox" height="220" alt="streak graph" />
-</div><br> -->
-<!--  <picture align="center" >
+</div><br>
+ <picture align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=Anonymous-Roys&show_icons=true&theme=radical" />
 </picture> -->
