@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on react based application
 - 🤔 I’m looking for help with developing an application in react native.
 - 💬 Ask me about the thing a spider🕷️ uses in trapping its prey.
-- 📫 How to reach me: https://www.linkedin.com/learning/
+- 📫 How to reach me: [https://www.linkedin.com/in/david-arhin-09a0a026a/]
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am Spider 🤫
 
