@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+Developer;I+am+Dave)](https://git.io/typing-svg)
 - 🔭 I’m currently working on a Nextjs based app with Tailwind css
 - 🌱 I’m currently learning Redux
 - 👯 I’m looking to collaborate on react based application
